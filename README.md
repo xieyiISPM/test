@@ -2,3 +2,4 @@
 
 Test smartgit
 
+Now it is on smartgit branch
